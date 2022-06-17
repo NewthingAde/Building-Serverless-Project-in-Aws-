@@ -46,11 +46,11 @@ You also need to add any necessary resources to the `resources` section of the `
 
 # Endpoints
    
-  - GET - https://qs7gougj3f.execute-api.us-east-2.amazonaws.com/dev/todos
-  - POST - https://qs7gougj3f.execute-api.us-east-2.amazonaws.com/dev/todos
-  - PATCH - https://qs7gougj3f.execute-api.us-east-2.amazonaws.com/dev/todos/{todoId}
-  - DELETE - https://qs7gougj3f.execute-api.us-east-2.amazonaws.com/dev/todos/{todoId}
-  - POST - https://qs7gougj3f.execute-api.us-east-2.amazonaws.com/dev/todos/{todoId}/attachment
+  - GET - https://im1th8rr46.execute-api.us-east-2.amazonaws.com/dev/todos
+  - POST - https://im1th8rr46.execute-api.us-east-2.amazonaws.com/dev/todos
+  - PATCH - https://im1th8rr46.execute-api.us-east-2.amazonaws.com/dev/todos/{todoId}
+  - DELETE - https://im1th8rr46.execute-api.us-east-2.amazonaws.com/dev/todos/{todoId}
+  - POST - https://im1th8rr46.execute-api.us-east-2.amazonaws.com/dev/todos/{todoId}/attachment
 
 functions:
   
@@ -160,8 +160,6 @@ cd client
 npm install
 npm run start
 ```
-
-See the Front end video - https://youtu.be/Rxi-IhMpfHg
 
 ### Working Todo
 
