@@ -2,7 +2,7 @@
 
 ## Serverless 
 
-![serverless](https://user-images.githubusercontent.com/80678596/177030906-92b4e691-c6fc-4411-93c6-8311faa892f3.png)
+![sta](https://user-images.githubusercontent.com/80678596/177031400-16a5fcba-224b-4835-893e-6e73743b40bc.png)
 
 Your ability to delegate more of your operational duties to AWS and so increase your agility and innovation is made possible by serverless, which is the cloud's inherent architecture. You may create and execute apps and services using serverless technology without giving servers any thought. It does away with infrastructure management duties like capacity provisioning, operating system upkeep, server or cluster provisioning, and patching. Almost any backend service or application can be built with them, and everything needed to run and scale your application with high availability is taken care of for you.
 
@@ -24,7 +24,7 @@ In order to construct, publish, maintain, monitor, and protect APIs at any size,
 
 ## Amazon DynamoDB
 
-![dynam](https://user-images.githubusercontent.com/80678596/177031142-d61f0094-0f44-4828-b0e8-e945f7805cbe.png)
+<img width="1861" alt="db" src="https://user-images.githubusercontent.com/80678596/177031324-b3bc4476-a2ee-4697-9aeb-76b29345acdf.png">
 
 A consistent, single-digit millisecond latency at any scale is required by all applications, and Amazon DynamoDB provides a quick and adaptable NoSQL database service that can meet this need.
 
