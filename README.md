@@ -71,11 +71,9 @@ You also need to add any necessary resources to the `resources` section of the `
 
 ## Deploy Backend
 
-                    cd backend
+                  cd backend
 
-                  npm update --save
-
-                  npm audit fix
+                  npm install
   
                   serverless
 
